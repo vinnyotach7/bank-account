@@ -1,0 +1,17 @@
+/* Put your css in here */
+.firstWord {
+  font-family: 'Open Sans', sans-serif; font-weight: 300
+}
+
+.secondWord {
+  font-family: 'Open Sans', sans-serif; font-weight: 400
+}
+body{
+  background-image: url(https://elevenews.com/wp-content/uploads/2018/03/Bitbank-Adds-New-Cryptocurrency-To-Their-Platform.jpg)
+}
+h1{
+  color:yellow;
+}
+h3{
+  color:red;
+}
